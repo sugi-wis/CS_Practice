@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Net;
 using System.IO;
 
+//hogehoge
 namespace CS_Practice_WebServer
 {
     class Program
